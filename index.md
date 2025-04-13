@@ -2,6 +2,7 @@
 
 ## About me 
 **Name**: Yanhua Liu
+
 **Major**: computer engineering
 ![Octoact](https://sandiegodiplomacy.org/wp-content/uploads/2023/02/UCSD-Symbol.png)
 
