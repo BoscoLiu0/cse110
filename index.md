@@ -12,9 +12,8 @@
 - [ ] C
 
 ### My Favorite Quotes
-> "Code is written for people to read, and incidentally for machines to run" -- guido van rossum
+> "Code is written for people to read, and incidentally for machines to run" -- guido van Rossum
 
-[Visit Homepage](git@github.com:BoscoLiu0/cse110.git)
 [Go to About Me](#about-me)
 [View README](README.md)
 
